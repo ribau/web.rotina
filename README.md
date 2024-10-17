@@ -1,6 +1,3 @@
-Aqui está um exemplo de um README bem estruturado e esteticamente agradável para o seu projeto. Ele descreve o conteúdo e os objetivos do projeto, além de oferecer instruções sobre como acessá-lo.
-
----
 
 # 🌐 Meu Site Pessoal - Rotina e Contato
 
@@ -41,6 +38,4 @@ Você pode entrar em contato comigo pelas seguintes formas:
 
 Este projeto tem como objetivo colocar em prática os conhecimentos adquiridos sobre desenvolvimento web, além de fornecer uma plataforma pessoal onde posso compartilhar minha rotina e informações de contato. O foco principal foi utilizar HTML simples, com inclusão de mídias, links externos e um design agradável inspirado nas cores do Palmeiras.
 
----
 
-Com esse README, seu projeto estará bem documentado e com uma boa apresentação! Se precisar de mais ajustes ou quiser incluir algo a mais, só avisar.
