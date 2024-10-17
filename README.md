@@ -1,7 +1,7 @@
 
 # 🌐 Meu Site Pessoal - Rotina e Contato
 
-Bem-vindo ao meu projeto de site pessoal! Este projeto foi desenvolvido como parte de uma atividade de Web Design, utilizando HTML e CSS básicos. Nele, você poderá conhecer um pouco mais sobre minha rotina diária e as formas de entrar em contato comigo. Além disso, inclui recursos multimídia como imagem, música de fundo e links para minhas redes sociais.
+Bem-vindo ao meu primeiro projeto de site pessoal! Este projeto foi desenvolvido como parte de uma atividade de Web da faculdade, utilizando HTML. Nele, você poderá conhecer um pouco mais sobre minha rotina diária e as formas de entrar em contato comigo. Além disso, inclui recursos multimídia como imagem, música de fundo e links para minhas redes sociais.
 
 ## 📑 Estrutura do Projeto
 
@@ -37,5 +37,5 @@ Você pode entrar em contato comigo pelas seguintes formas:
 ## 🎯 Objetivo do Projeto
 
 Este projeto tem como objetivo colocar em prática os conhecimentos adquiridos sobre desenvolvimento web, além de fornecer uma plataforma pessoal onde posso compartilhar minha rotina e informações de contato. O foco principal foi utilizar HTML simples, com inclusão de mídias, links externos e um design agradável.
-
+- **link do Vercel**:(https://vercel.com/vinicius-projects-fc443e28/web)
 
