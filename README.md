@@ -36,6 +36,6 @@ Você pode entrar em contato comigo pelas seguintes formas:
 
 ## 🎯 Objetivo do Projeto
 
-Este projeto tem como objetivo colocar em prática os conhecimentos adquiridos sobre desenvolvimento web, além de fornecer uma plataforma pessoal onde posso compartilhar minha rotina e informações de contato. O foco principal foi utilizar HTML simples, com inclusão de mídias, links externos e um design agradável inspirado nas cores do Palmeiras.
+Este projeto tem como objetivo colocar em prática os conhecimentos adquiridos sobre desenvolvimento web, além de fornecer uma plataforma pessoal onde posso compartilhar minha rotina e informações de contato. O foco principal foi utilizar HTML simples, com inclusão de mídias, links externos e um design agradável.
 
 
